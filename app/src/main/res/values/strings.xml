@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_redbus</string>
+<string name="bus_tickets">Bus tickets</string>
+    <string name="enter_source">ENTER SOURCE </string>
+    <string name="enter_destination">ENTER DESTINATION</string>
+    <string name="date">Sat,5 Sept</string>
+    <string name="search">SEARCH</string>
+    <string name="Today">TODAY</string>
+    <string name="Tomorow">TOMOROW</string>
+    <string name="you_can_aslo">YOU CAN ALSO BOOK</string>
+</resources>
