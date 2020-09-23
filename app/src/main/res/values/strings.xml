@@ -10,4 +10,8 @@
     <string name="you_can_aslo">YOU CAN ALSO BOOK</string>
     <string name="looks">Looks empty, no completed trips found.</string>
     <string name="refresh">Pull to refresh</string>
+    <string name="offers">
+        <a href="https://www.redbus.in/info/OfferTerms">offers</a>
+
+    </string>
 </resources>

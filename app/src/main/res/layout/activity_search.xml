@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".search">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/red"
+>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/backarrow"
+            android:layout_marginTop="25sp"
+            android:id="@+id/backhome"
+            android:layout_marginStart="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="gulbrga"
+            android:textSize="25sp"
+            android:id="@+id/gulbarga"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="50dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="bangalore"
+            android:textSize="25sp"
+            android:id="@+id/banhalore"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="170dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+android:layout_alignParentEnd="true"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="15dp"
+            android:text="15-12-2020"
+            android:id="@+id/seatchdate"
+            android:textColor="@android:color/white"
+/>
+        <View
+            android:layout_width="15dp"
+            android:layout_height="3dp"
+            android:background="@android:color/white"
+            android:layout_toRightOf="@id/gulbarga"
+            android:layout_marginTop="30dp"
+
+            />
+
+
+    </RelativeLayout>
+</LinearLayout>

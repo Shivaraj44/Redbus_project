@@ -23,7 +23,7 @@ public class My_BookingL extends AppCompatActivity {
     });
 
 
-        Intent intent=new Intent(My_BookingL.this,MainActivity.class);
+
 
     }
 }

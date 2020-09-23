@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.project_redbus">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Helpredbus"></activity>
+        <activity android:name=".search"></activity>
+        <activity android:name=".foodnfun" />
+        <activity android:name=".bushire" />
+        <activity android:name=".rpool" />
+        <activity android:name=".Helpredbus" />
         <activity android:name=".My_BookingL" />
         <activity android:name=".MainActivity">
             <intent-filter>
