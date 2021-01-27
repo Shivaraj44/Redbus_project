@@ -13,9 +13,6 @@ This project is a my First clone of RedBus with all the pixel perfect layouts an
 ## Setup
 * Install the (.apk) file in your moblie device.
 * If It is not installing check with hardware requirements and check if Install from Unknown Resources is enabled
-```
-##Screensots
-<div align="center">
-    <img src="file:///C:/Users/HI/Desktop/redbus/Screenshot_2021-01-25-00-49-21-021_com.example.project_redbus.jpg" width="400px"</img> 
-</div>
-<img src="https://link" style=" width:100px ; height:100px " />
+
+<img src=redbus/s1.jpg height="500px"/>
+
